@@ -8,9 +8,13 @@ This project predicts the price of a vehicle based on various features such as m
 
 vehicle_price_prediction.zip	                                                      #Raw dataset
 
+main.py                                                                             #Code file
+
 vehicle_price_model.pkl	                                                            #Trained XGBoost model
 
 onehotencoder.pkl	                                                                  #Trained OneHotEncoder
+
+top_10_feat_importances.png                                                         #Visualisation
 
 app.py	                                                                            #Streamlit app script
 
