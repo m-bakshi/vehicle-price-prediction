@@ -6,15 +6,15 @@ This project predicts the price of a vehicle based on various features such as m
 
 ## Project files
 
-vehicle_price_prediction.zip	                  #Raw dataset
+vehicle_price_prediction.zip	                                                      #Raw dataset
 
-vehicle_price_model.pkl	                        #Trained XGBoost model
+vehicle_price_model.pkl	                                                            #Trained XGBoost model
 
-onehotencoder.pkl	                              #Trained OneHotEncoder
+onehotencoder.pkl	                                                                  #Trained OneHotEncoder
 
-app.py	                                        #Streamlit app script
+app.py	                                                                            #Streamlit app script
 
-README.md	                                      #Project documentation
+README.md	                                                                          #Project documentation
 
 
 
@@ -85,7 +85,9 @@ streamlit
 ## Results
 
 Mean Absolute Error: 3971.344932432433
+
 Root Mean Squared Error: 9229.875959037921
+
 R^2 Score: 0.81152374352559
 
 ## Visualisation
